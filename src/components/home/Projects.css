@@ -1,0 +1,39 @@
+.MuiDataGrid-columnHeaders,
+.MuiDataGrid-columnHeader,
+.MuiDataGrid-columnHeader:hover .MuiDataGrid-menuIconButton {
+  background-color: #282c34;
+  color: white;
+}
+
+/* .MuiDataGrid-filler {
+  background-color: #282c34;
+  color: white;
+} */
+/* .MuiDataGrid-columnHeaderTitleContainerContent {
+} */
+
+/* .MuiDataGrid-columnHeaderTitle, */
+/* .MuiDataGrid-topContainer.MuiDataGrid-container--top, */
+/* .MuiDataGrid-columnHeaders, */
+/* .MuiDataGrid-filler */
+/* ------------------------------------------------------------- */
+.MuiDataGrid-columnHeader.MuiDataGrid-columnHeader--sortable,
+.MuiDataGrid-columnHeader.MuiDataGrid-columnHeader--sortable:hover,
+.MuiDataGrid-columnHeader.MuiDataGrid-columnHeader--sortable:hover
+  .MuiDataGrid-menuIconButton,
+.MuiDataGrid-sortIcon,
+.MuiDataGrid-sortIcon:hover {
+  background-color: #282c34;
+  color: white;
+}
+/* ------------------------------------------------------------- */
+
+.MuiDataGrid-menuIconButton,
+.MuiDataGrid-menuIconButton:hover {
+  color: white;
+}
+
+.MuiDataGrid-cell.MuiDataGrid-cell--textLeft.MuiDataGrid-cell--editable {
+  word-wrap: break-word;
+  height: 60px;
+}

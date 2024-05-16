@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/96c3cb01-f21f-4a91-9b87-418355aab7b2/resourceGroups/NewDavos/providers/Microsoft.Web/sites/davose",
+    "appService.deploySubpath": "."
+}
